@@ -1,0 +1,28 @@
+{
+  "short_name": "tprojects",
+  "name": "tprojects",
+  "icons": [
+    {
+      "src": "/logo-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#333333",
+  "theme_color": "#333333",
+  "title_bar_color": "#333333",
+  "content": "#333333"
+}
