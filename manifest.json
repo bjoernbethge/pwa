@@ -3,17 +3,17 @@
   "name": "tprojects",
   "icons": [
     {
-      "src": "/logo-128.png",
+      "src": "/pwa/logo-128.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/logo-192.png",
+      "src": "/pwa/logo-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/logo.png",
+      "src": "/pwa/logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
